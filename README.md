@@ -60,7 +60,6 @@ admin.site.register(CustomerDB,StudentDBAdmin)
 ```
 
 ## OUTPUT
-![alt text](image.png)
 ![Uploading image.png…]()
 
 
