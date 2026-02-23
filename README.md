@@ -62,6 +62,7 @@ admin.site.register(CustomerDB,StudentDBAdmin)
 ## OUTPUT
 
 
+<img width="1311" height="648" alt="Screenshot 2026-02-23 111106" src="https://github.com/user-attachments/assets/aa044c3a-f898-4dd3-b224-b04b7dc70dfe" />
 
 ## RESULT
 Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
