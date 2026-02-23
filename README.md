@@ -60,7 +60,7 @@ admin.site.register(CustomerDB,StudentDBAdmin)
 ```
 
 ## OUTPUT
-![Uploading image.png…]()
+"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2026-02-23 111106.png"
 
 
 ## RESULT
